@@ -1,2 +1,2 @@
-# webgl-web-page
-「🟡開発中」web page with WebGL model view
+# skyverse-frontend
+「🟡開発中」frontend for a web page
